@@ -5,3 +5,7 @@ We will make two different changes in this file in two different branches, and t
 
 # These changes are to be committed in the main branch
 change 1
+# These changes are committed to branch_a
+change 2
+
+I want to keep both the changes, and add a new line here as well!
