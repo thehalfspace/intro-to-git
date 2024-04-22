@@ -1,3 +1,7 @@
 # This is an example of merge conflict
 
 We will make two different changes in this file in two different branches, and try to merge them
+
+
+# These changes are committed to branch_a
+change 2
