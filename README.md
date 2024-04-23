@@ -14,7 +14,7 @@ This repo is a basic introduction to version control using git and github.
 Hidden files
 Files that start with a . are hidden. There are two to be aware of for this workshop
 ```sh
-~/.gitconfig
+.git
 
 .gitignore
 ```
